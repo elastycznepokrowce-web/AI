@@ -1,5 +1,12 @@
 # Reklama: Tester, którego nie można zwolnić
 
+## Aktualna wersja v3 — hasła marki
+
+[Pobierz aktualny film MP4](https://github.com/elastycznepokrowce-web/AI/raw/refs/heads/reklama-tester/reklama-psiak/reklama-tester-brand-v3-podglad.mp4).
+
+Hasła w filmie: „Włoskie pokrowce Superior” (8,5–11,5 s) i „Pokrowce nie do zdarcia!” (11,5–15 s). Tekst reklamy i nagłówek zostały zaktualizowane. Typografia nadal tymczasowa do otrzymania plików Brandon i Gilroy.
+
+
 Gotowy film reklamowy do Facebooka i Instagrama: 15 sekund, format 1:1, 1080 × 1080 pikseli. Zawiera muzykę, napisy i adres www.elastycznepokrowce.pl.
 
 Pliki znajdują się w katalogu `reklama-psiak`:
